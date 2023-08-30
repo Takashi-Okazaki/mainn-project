@@ -1,2 +1,2 @@
-# mainn-project
+# main-project
 Git講座用のメインプロジェクト
